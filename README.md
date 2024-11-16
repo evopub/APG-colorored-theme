@@ -19,7 +19,7 @@ Help: the complete list of selectors and how to use them is at: <https://github.
 
 ## Installation 
 
-1. Download the file: 
+1. Download the file: [APG Colored (light).theme.json](https://github.com/evopub/APG-colorored-theme/blob/main/APG%20Colored%20(light).theme.json)
 2. Place it in `/Users/[YOUR ACCOUNT]/Library/Application Support/TheArchive/Themes/`
 3. Select it in the settings of The Archive (Tab: *Appearance*)
 
